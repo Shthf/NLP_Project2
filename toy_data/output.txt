@@ -1,0 +1,16 @@
+Now training...
+Training finished...
+Now in testing
+In class comedy: 
+In file ./toy_data/test/comedy/test.txt
+The probability to each class: comedy: 7.324218750000001e-05 action: 0.00017146776406035664 
+The prediction is: action
+in label comedy: the count of correct match is 0, total is 1
+Now in testing
+In class action: 
+In file ./toy_data/test/action/test.txt
+The probability to each class: comedy: 7.324218750000001e-05 action: 0.00017146776406035664 
+The prediction is: action
+in label action: the count of correct match is 1, total is 1
+The incorrectness is comedy:1.0 action:0.0 
+***************************************************************
